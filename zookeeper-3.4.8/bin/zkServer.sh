@@ -21,8 +21,6 @@
 # relative to the canonical path of this script.
 #
 
-env
-
 # use POSTIX interface, symlink is followed automatically
 ZOOBIN="${BASH_SOURCE-$0}"
 ZOOBIN="$(dirname "${ZOOBIN}")"
